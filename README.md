@@ -19,7 +19,7 @@
  
 - Visual Studio Code
 -	Cypress
--	Typescript
+-	Javascript
 -	Page Object Pattern
 
 
@@ -40,6 +40,8 @@
 -	Must search with filters
 - Must check if the list contains Yamask
 - Count Pokemons starting with letter Y
+
+<em> * This project also contains the Jenkinsfile </em>
 
 
  
